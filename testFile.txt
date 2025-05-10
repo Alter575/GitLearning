@@ -1,0 +1,3 @@
+public int testMethod(int a){
+return 0;
+}
